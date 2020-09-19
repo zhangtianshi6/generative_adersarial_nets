@@ -11,8 +11,8 @@ img output img
 
 ## generator pic 
 
-![model_output](pic/output.png)
+![model_output](./pic/output.png)
 
 ## train gen and disc loss
 
-![model_loss](pic/epoch.jpg)
+![model_loss](./pic/epoch.jpg)
